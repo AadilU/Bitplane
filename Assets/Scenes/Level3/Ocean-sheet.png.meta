@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: 3553244888e42c248ad93f58eaba5409
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5133886278225010007
+    second: Ocean-sheet_0
+  - first:
+      213: 1546440718508682897
+    second: Ocean-sheet_1
+  - first:
+      213: 9069649574362012033
+    second: Ocean-sheet_2
+  - first:
+      213: 6496728691249029839
+    second: Ocean-sheet_3
+  - first:
+      213: -7751617603510391617
+    second: Ocean-sheet_4
+  - first:
+      213: 1402573600108896779
+    second: Ocean-sheet_5
+  - first:
+      213: 3521497704671843997
+    second: Ocean-sheet_6
+  - first:
+      213: -7258968624339428589
+    second: Ocean-sheet_7
+  - first:
+      213: 8249860269606881876
+    second: Ocean-sheet_8
+  - first:
+      213: -1344129167603896590
+    second: Ocean-sheet_9
+  - first:
+      213: -285106035636995914
+    second: Ocean-sheet_10
+  - first:
+      213: -5022693093196848419
+    second: Ocean-sheet_11
+  - first:
+      213: 8898502582175060356
+    second: Ocean-sheet_12
+  - first:
+      213: -3503664147980680955
+    second: Ocean-sheet_13
+  - first:
+      213: -6679721149434337618
+    second: Ocean-sheet_14
+  - first:
+      213: -1852517835513995714
+    second: Ocean-sheet_15
+  - first:
+      213: 9206170316133643554
+    second: Ocean-sheet_16
+  - first:
+      213: 8925691491021694511
+    second: Ocean-sheet_17
+  - first:
+      213: -3151411737141094895
+    second: Ocean-sheet_18
+  - first:
+      213: -4594938063692770950
+    second: Ocean-sheet_19
+  - first:
+      213: 7168052380504920632
+    second: Ocean-sheet_20
+  - first:
+      213: 6170312586120894183
+    second: Ocean-sheet_21
+  - first:
+      213: 6798427021372470898
+    second: Ocean-sheet_22
+  - first:
+      213: -8048227026059523026
+    second: Ocean-sheet_23
+  - first:
+      213: -6377596563584210066
+    second: Ocean-sheet_24
+  - first:
+      213: -6514236024827968197
+    second: Ocean-sheet_25
+  - first:
+      213: -4118736171488606022
+    second: Ocean-sheet_26
+  - first:
+      213: 5165586849356798515
+    second: Ocean-sheet_27
+  - first:
+      213: -306434538758405800
+    second: Ocean-sheet_28
+  - first:
+      213: -8090870819046190468
+    second: Ocean-sheet_29
+  - first:
+      213: 2526988731871176402
+    second: Ocean-sheet_30
+  - first:
+      213: -900920143147750459
+    second: Ocean-sheet_31
+  - first:
+      213: 1034483787556746924
+    second: Ocean-sheet_32
+  - first:
+      213: -7963166234259628423
+    second: Ocean-sheet_33
+  - first:
+      213: 8235118664821740068
+    second: Ocean-sheet_34
+  - first:
+      213: -113030389260774897
+    second: Ocean-sheet_35
+  - first:
+      213: -1333926866636558624
+    second: Ocean-sheet_36
+  - first:
+      213: -8361739934604729306
+    second: Ocean-sheet_37
+  - first:
+      213: -6723678482952087123
+    second: Ocean-sheet_38
+  - first:
+      213: 1936833976843720508
+    second: Ocean-sheet_39
+  - first:
+      213: 2997607059504624727
+    second: Ocean-sheet_40
+  - first:
+      213: -8715158190166203409
+    second: Ocean-sheet_41
+  - first:
+      213: 6368675869419655353
+    second: Ocean-sheet_42
+  - first:
+      213: 2263166225018678873
+    second: Ocean-sheet_43
+  - first:
+      213: 7949617655201397270
+    second: Ocean-sheet_44
+  - first:
+      213: -5225690101181542703
+    second: Ocean-sheet_45
+  - first:
+      213: -6752855675222212095
+    second: Ocean-sheet_46
+  - first:
+      213: -675485818282863937
+    second: Ocean-sheet_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ocean-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d9ada9e5a3f3740800000000000000
+      internalID: 5133886278225010007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ocean-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ee8ecd3af067510800000000000000
+      internalID: 1546440718508682897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ocean-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189de1d1c3edddd70800000000000000
+      internalID: 9069649574362012033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ocean-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2acf3d254092a50800000000000000
+      internalID: 6496728691249029839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ocean-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc29140cd8bc6490800000000000000
+      internalID: -7751617603510391617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ocean-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02e4d51241f67310800000000000000
+      internalID: 1402573600108896779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
